@@ -1,5 +1,8 @@
-## Hi there 👋
-
+- 🔭 I’m currently working on OPTIMIZATION for MAINTENANCE in RENEWABLE ENERGY.
+- 🌱 I’m currently learning DECOMPOSITION METHODS.
+- 👯 I’m looking to collaborate on ML for RENEWABLE ENERGY.
+- 😄 Pronouns: HE/HIM
+- ⚡ I'm an INDUSTRIAL ENGINEERING PHD CANDIDATE at WAYNE STATE UNIVERSITY.
 <!--
 **mceyhansahin/mceyhansahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
